@@ -16,7 +16,8 @@ class Task:
         self.completed = True
 
     def status(self) -> str:
-        now = datetime.now()
+        now = datetime.strptime(datetime.now().strftime("%H:%M"), "%H:%M")
+
         if self.completed:
             return "Finished"
         elif self.start_time <= now <= self.end_time:

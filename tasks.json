@@ -3,12 +3,36 @@
         "title": "Learn Dotnet",
         "start_time": "14:00",
         "end_time": "16:00",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Solve a leetcode problem",
         "start_time": "17:00",
         "end_time": "18:00",
+        "completed": false
+    },
+    {
+        "title": "Learn exam",
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "completed": false
+    },
+    {
+        "title": "Zoom meeting",
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "completed": false
+    },
+    {
+        "title": "hello",
+        "start_time": "14:15",
+        "end_time": "14:45",
+        "completed": false
+    },
+    {
+        "title": "hello",
+        "start_time": "14:16",
+        "end_time": "14:45",
         "completed": false
     }
 ]
